@@ -51,6 +51,11 @@ cd devices-clientapp-v3-main
 npm start 
 ```
 
+## Screenshots
+![Add Modal](https://user-images.githubusercontent.com/22078200/142036800-4009cab4-bee4-4f01-86c8-14b00c6c0629.PNG)
+![Delete Modal](https://user-images.githubusercontent.com/22078200/142036830-8ef6c3b6-fe73-408c-9cc4-2ea5740d519c.PNG)
+![Sort](https://user-images.githubusercontent.com/22078200/142036923-8b04b036-cf2e-48ee-aa92-7a1702f33f15.PNG)
+
 ## To Do
 * Add unit/integration tests
 * Add loading indicators
