@@ -8,10 +8,7 @@ This application is built using ReactJS. Each screen is divided into separate JS
 ### Styling
 Material-UI is used for all basic components.
 
-### React Router
-React router v6 is used to create the following routes:
-
-* /  ==> (Home, displays list of all devices)
+### Modals
 
 The current implementation, much like the second iteration, makes use of modals and displays devices in a paginated table.
 
